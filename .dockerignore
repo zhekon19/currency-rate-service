@@ -1,0 +1,15 @@
+*.log
+logs/
+*.out
+
+target/
+
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+.git/
+.gitignore
